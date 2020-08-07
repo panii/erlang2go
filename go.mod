@@ -1,3 +1,3 @@
-module github.com/erlang2go/erlang
+module github.com/panii/erlang2go
 
 go 1.11
